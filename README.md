@@ -39,3 +39,4 @@ This app was created by [Your Name]. It is open-source and available on GitHub.
 
 License
 This project is licensed under the MIT License.
+
