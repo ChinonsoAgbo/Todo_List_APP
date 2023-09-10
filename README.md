@@ -1,3 +1,6 @@
+<img width="788" alt="Bildschirmfoto 2023-09-10 um 20 16 16" src="https://github.com/ChinonsoAgbo/Todo_List_APP/assets/81990068/f09267f5-c72c-40bb-8876-1e935a0f6cfa">
+
+
 # Todo App 
 The Todo app is a simple web application built using Django that allows you to manage your tasks and to-do lists. You can add, view, and mark tasks as completed.
 
